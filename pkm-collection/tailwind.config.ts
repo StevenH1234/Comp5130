@@ -12,6 +12,15 @@ const config: Config = {
         background: "var(--background)",
         foreground: "var(--foreground)",
       },
+      animation: {
+        typing: "typing 3s steps(30) 1s infinite normal both",
+      },
+      keyframes: {
+        typing: {
+          "0%": { width: "0" },
+          "100%": { width: "100%" },
+        },
+      },
     },
   },
   plugins: [],
