@@ -1,7 +1,8 @@
 # Comp5130
 COMP.5130 Internet and web systems - Fall 2024 project
 
-User Documentation - 
+**User Documentation**
+
 PKM-Collection is a web application for dedicated collectors and fans of the Pokemon Trading Card Game. Here collectors will be able to track there collections with cards from sets across the generations. Grow and build the collection buy purchasing and selling cards to other users. While on the application, users can check out featured card arts and upcoming sets as well.
 
 - Home page - Explore the art gallery that highlights cards from years past, enjoy the featured card and learn more about a top card in todays market, and finally see whats new in the world of Pokemon TCG
